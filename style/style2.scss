@@ -1,0 +1,151 @@
+.top{
+    text-align: center;
+    letter-spacing: .3;
+    margin: 0 auto;
+    width: 80%;
+}
+.top_p{
+    opacity: .8;
+    margin-top: 10px;
+    width:400px;
+    text-align: center;
+    margin: 0 auto;
+
+    
+}
+.all{
+    display: flex;
+    border-color: darkblue;
+    padding: 120px;
+    :hovor{
+      transform: scale(1.1);
+    }
+ 
+}
+p{
+    margin-top: 20px;
+    width: 140px;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 80px;
+    
+}
+h2{
+    text-align: center;
+}
+li{
+    margin-top: 15px;
+    font-weight: 700;
+  list-style: none;
+  font-size: 20px;
+}
+input{
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgb(0, 128, 255);
+    width: auto;
+    font-size: 20px;
+    border-radius: 6px;
+    color: aliceblue;
+    height:40px;
+}
+input:hover{
+    cursor: pointer;
+    background-color: rgb(11, 183, 23);
+    color: white;
+}
+.free{
+   
+    border: 1px solid; 
+    border-color: rgb(62, 99, 244);
+    border-radius: 8px;
+    padding: 60px;
+    width: 80%;
+    margin: 0 auto;
+}
+.free1{
+   
+    border: 1px solid; 
+    border-color: rgb(62, 99, 244);
+    border-radius: 8px;
+    padding: 60px;
+    width: 80%;
+    margin: 0 auto;
+    
+    :hover{
+        cursor: pointer;
+        transform: scale(1.1);
+       
+    }
+}   
+.free2{
+   
+    border: 1px solid; 
+    border-color: rgb(62, 99, 244);
+    border-radius: 8px;
+    padding: 60px;
+    width: 80%;
+    margin: 0 auto;
+    :hover{
+        cursor: pointer;
+        transform: scale(1.1);
+        color: aquamarine;
+    }
+}      
+h1{
+    
+    font-size: 35px;
+}
+b{
+    font-size: 50px;
+    font-weight: 800;
+    color: blue;
+    margin-left: 35px;
+    margin-bottom: 40px;
+    margin-top: 49px;
+}
+sup{
+    font-size: 30px;
+    font-weight: 800;
+    color: blue;
+    margin-left: 15px;
+}
+sub{
+    font-size: 20px;
+    font-weight: 400;
+    color: blue;
+}
+#green{
+    background-color: rgb(10, 163, 5);
+    color: white;
+  border-radius: 50%;
+  margin-right:5px;
+}
+.free:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    background-color: rgb(18, 19, 19);
+    color: aliceblue;
+    transition: all linear 0.45s;
+}
+.free1:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    background-color: rgb(18, 19, 19);
+    color: aliceblue;
+    transition: linear 0.45s;
+}
+.free2:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    background-color: rgb(18, 19, 19);
+    color: aliceblue;
+    transition: linear 0.45s;
+}
+#grey{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    border-radius: 50%;
+    margin-right:5px;
+    
+}
